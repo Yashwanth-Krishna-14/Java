@@ -13,6 +13,7 @@ public class ComApplication {
 
 
 		Devil obj =context.getBean(Devil.class);
+
 		obj.build();
 
 	}

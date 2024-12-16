@@ -10,3 +10,8 @@ public class laptop implements computer {
         System.out.println("compiling with 404 bugs");
     }
 }
+//                   +----------------------------------------------------------------------+
+// for connecting :  |class     -> class (or)  interface -> interface = 'extends' keyword    |
+//                   |-----------------------------------------------------------------------|
+//                   |interface -> class (or)  class     -> interface = 'implements' keyword |
+//                   +-----------------------------------------------------------------------+
